@@ -1,4 +1,4 @@
- Hi there 👋
+ 
 
  Hi there 👋, I'm khyothungo kikon
 
@@ -6,7 +6,7 @@
 📊 Interested in Business Analytics, Marketing & Technology  
 🚀 Passionate about turning data into meaningful insights  
 
----
+
 
  💡 About Me
 - 🎓 Currently pursuing BBA in IBM (International Business Management)
@@ -45,19 +45,3 @@ Here are some of the projects I’ve worked on:
 - LinkedIn: https://www.linkedin.com/in/khyothungo-kikon-0a6427399
 - Email: khyothungo777@gmail.com
 
----
-
-⭐ *"Learning never stops. Growing every day."*-
-**khyothungo777/khyothungo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
