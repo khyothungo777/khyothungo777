@@ -2,7 +2,8 @@
 
  Hi there 👋, I'm khyothungo kikon
 
-🎓 BBA (IBM) Student  
+🎓 ![Uploading file_00000000bbfc7206a85bbf213d17e344.png…]()
+ (IBM) Student  
 📊 Interested in Business Analytics, Marketing & Technology  
 🚀 Passionate about turning data into meaningful insights  
 
