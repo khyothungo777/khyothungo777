@@ -1,6 +1,7 @@
  
 
  Hi there 👋, I'm khyothungo kikon
+<img width="1536" height="1024" alt="file_00000000bbfc7206a85bbf213d17e344" src="https://github.com/user-attachments/assets/fc33d631-89a2-48cb-a84d-432d4fd7c83c" />
 
 
  (IBM) Student  
